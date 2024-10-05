@@ -31,7 +31,7 @@
     <h2>المهندس أيمن عوض جمعة جادالله</h2>
 
     <div class="contact-info">
-        <p><strong>الهاتف:</strong> 010-18076587 / 015-51042242</p>
+        <p><strong>الهاتف:</strong> 01018076587 / 01551042242</p>
         <p><strong>البريد الإلكتروني:</strong> syp1200@gmail.com</p>
         <p><strong>تاريخ الميلاد:</strong> 1999-6-17</p>
         <p><strong>الخدمة العسكرية:</strong> إعفاء نهائي</p>
